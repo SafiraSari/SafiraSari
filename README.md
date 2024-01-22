@@ -6,6 +6,10 @@ Hello!
 
 I'm a 2nd year University student in Computer Science.
 
+
+## Skills
+Java, Python, HTML, CSS, JavaScript, PHP, C, Clojure, Erlang
+
 <!--
 **SafiraSari/SafiraSari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
