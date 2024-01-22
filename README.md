@@ -1,4 +1,10 @@
-### Hi there 👋
+### 
+
+![Header](./github-header-image.png)
+
+Hello! 
+
+I'm a 2nd year University student in Computer Science.
 
 <!--
 **SafiraSari/SafiraSari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
