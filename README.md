@@ -4,7 +4,7 @@
 
 Hello! 
 
-I'm a 2nd year University student in Computer Science.
+I'm a University student in Computer Science.
 
 
 ## Skills
